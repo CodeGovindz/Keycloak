@@ -25,7 +25,6 @@ This is a modern, full-stack To-Do application built with Next.js and styled wit
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & ShadCN UI
 - **AI Integration**: Genkit
-- **Platform**: Firebase Studio
 
 ## 🚀 Getting Started
 
